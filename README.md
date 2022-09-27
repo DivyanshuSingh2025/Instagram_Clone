@@ -1,2 +1,2 @@
 # Instagram_Clone
-In This Project I have Designed the Front-End Of 
+In this project I have designed the Front-End Of Instagram using advanced HTML and CSS
